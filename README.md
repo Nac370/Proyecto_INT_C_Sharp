@@ -1,13 +1,7 @@
-este proyecto esta siendo desarrollado junto un grupo de 4 personas para el final de una materia.
-Se basa en un sistema para poder controlar turnos, pacientes y 
-médicos con facilidad. Realizamos la base de datos en Microsoft SQL Server, 
-y luego en programación en 3 capas en Visual Estudio usando .net y C# la parte funcional.
-El punto del sistema es ser un CRM para atencion y tambien manejo de la clinica, podras buscar pacientes, agregar turnos y demas cosas.
-Cuenta con un Login y un usuario admin que tendra capicidades extraordinarias como agregar o dar baja logica de medicos.
-La mayoria del tp esta trabajo en un foro grupal de la UTN, pero seguiremos trabajando en GIT desde ahora. 
------------------------------------------------------------------------------------------
-This proyect have been made for 4 persons, it is a proyect to a university subject.
-We work with Micosoft SQL Server and Visual Studio | C# | ASP.NET.
-The point of the system is a CRM make it whith MVC, to control, turns,medics and patients.
-Also a Admin fuction to add medics turns, with a login system.
-The most part of the TP was made in a Grupal Forum of the University, but we'll continue working here. :)
+Este proyecto fue desarrollado por un grupo de 4 personas, incluído yo, para el final de una materia en la cursada de Técnico Universitario en Programación. Los principales lenguajes utilizados fueron C# y ASP .Net. Además, se utilizó Visual Studio 2019 y Microsoft SQL Server.
+Se basa en un sistema para poder controlar turnos, pacientes y médicos con facilidad.
+La base de datos fue realizada en Microsoft SQL Server, y se utilizó programación en 3 capas en el desarrollo del código.
+El objetivo del sistema es ser un CRM para atención y manejo de una clínica.
+En el mismo, existen 2 tipos de usuarios, uno Administrador y otro del tipo Médico o Doctor.
+El Administrador tiene permisos tales como para agregar, borrar (no física), modificar, y listar diferentes tipos de datos dentro de la base de datos. Por otro lado, el Médico puede revisar los turnos que tiene asignados, marcar el presente del paciente a dicho turno, y si gusta, dejar una descripción de cómo fue el turno. 
+Por último, este proyecto cuenta con un Login de usuario para diferenciar entre los 2 posibles tipos. Cabe aclarar que el proyecto fue revisado y probado su funcionamiento correcto pero pueden existir algunos detalles a revisar.
